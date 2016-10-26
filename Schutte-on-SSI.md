@@ -1,9 +1,16 @@
 #Schutte’s Critique of the Self-Sovereign Identity Principles
+##Intro
 I’m taking a quick pass through Christopher Allen’s 10 principles for Self-Sovereign Identity, with an eye toward highlighting the primary shortcomings that I perceive.  Note: I have a very unusual take on this.  I understand that.  I’m trying to be guided primarily by how mechanisms of coherence formation, perception and interaction amongst agents operate in complex adaptive systems.  
 
-I assume that the meta-patterns that we can observe in terms of how nature organizes itself are FUNCTIONAL ADAPTATIONS THAT HAVE EMERGED OVER COUNTLESS MILLENNIA OF TRIAL AND ERROR BECAUSE THEY BALANCE TENSIONS OF RESILIENCE (achieved through generation of diversity) AND EFFICIENCY (achieved through curation of diversity through actual interactions with surrounding entities, which cumulatively constitute an environment).  This process of GENERATION and CURATION, often referred to as “Evolution” has come up with some pretty decent patterns — after having tried pretty much darn near everything and finding these patterns to have persistently find formation / activation in our present day world.  And yes, I’m stating that the patterns themselves are a product of evolution.  The stuff that worked, continues to make an appearance.  The patterns that lead to self-extinguishing dead-ends, are not so common (though they have to potential to be generated anew)
+I assume that the meta-patterns that we can observe in terms of how nature organizes itself are FUNCTIONAL ADAPTATIONS THAT HAVE EMERGED OVER COUNTLESS MILLENNIA OF TRIAL AND ERROR BECAUSE THEY BALANCE TENSIONS OF RESILIENCE (achieved through generation of diversity) AND EFFICIENCY (achieved through curation of diversity through actual interactions with surrounding entities, which cumulatively constitute an environment).  
 
-Chris Allen’s 10 Principles for Self-Sovereign Identity
+This process of GENERATION and CURATION, often referred to as “Evolution” has come up with some pretty decent patterns -- after having tried pretty much darn near everything and finding these particular patterns to have persistently found form / activation throughout the contexts that they faced.  
+
+And yes, I’m stating that the patterns themselves are a product of evolution.  
+
+The stuff that worked, continues to make an appearance.  The patterns that lead to self-extinguishing dead-ends -- are not so common (though they have the potential to be generated anew).
+
+##Christopher Allen’s 10 Principles for Self-Sovereign Identity
 
 Schutte’s Take:
 
@@ -142,3 +149,8 @@ A couple of years ago at IIW, I mapped out a rough protocol for how to query an 
 Schutte’s Take:
 
 I agree! Though I would argue that decentralized is actually the wrong language, and that what we actually want is distributed systems — that can mutate (thus enabling adaptation even at that layer) while still maintaining the possibility of interoperability.
+
+##Conclusion
+If we anchor our systems of governance (and identity infrastructures certainly aim to become just that) in tempting, but false, heuristics that reify the edges of objects (rather than exposing them for the gradients they are) and hard-code in boundaries of self, then we risk simply re-creating the existing patterns of regulation that we were hoping to improve upon. 
+
+To call out the shift more clearly -- if we ground ourselves in myths of universalism, hierarchy is the eventual result -- whether the processes are achieved through analog or digital means.  If we shift to a relative frame and build systems on that basis, we begin to open up more generative possibilities.
